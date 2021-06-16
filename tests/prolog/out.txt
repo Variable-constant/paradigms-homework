@@ -1,0 +1,7 @@
+Loading .\primes.pl
+=== Testing PrologPrimesTest
+Benchmark done in 353ms
+Init: false
+Init done in 3800ms
+checkPrimes done in 519ms
+checkComposites done in 365ms
